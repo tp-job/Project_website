@@ -301,6 +301,25 @@ npm install axios react-router-dom
 npm install -D tailwindcss@3 postcss autoprefixer
 ```
 
+tailwind.config.js
+```js
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+```
+
+src/index.css
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
 AppRoute.jsx
 ```jsx
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
