@@ -290,3 +290,26 @@ app.listen(port, () => {
   console.log(`Server กำลังทำงานที่ port ${port}`);
 });
 ```
+
+---
+
+Build a Frontend
+```cmd
+npm create vite@latest . -- --template react
+npm install
+npm install axios react-router-dom
+npm install -D tailwindcss@3 postcss autoprefixer
+```
+
+AppRoute.jsx
+```jsx
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+
+<Link to="/booking">
+
+<Router>
+  <Routes>
+    <Route path="/" element={<HomePage />} />
+  </Routes>  
+</Router>
+```
