@@ -103,6 +103,22 @@ npm install axios react-router-dom
 npm install -D tailwindcss@3 postcss autoprefixer
 ```
 
+vite.config.js
+```js
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+// https://vite.dev/config/
+export default defineConfig({
+  server: {
+    host: true,  // เปิดให้เข้าถึงจากเครือข่าย
+    port: 10005,  // กำหนดพอร์ตใหม่
+  },
+  plugins: [react()],
+})
+
+```
+
 tailwind.config.js
 ```js
 /** @type {import('tailwindcss').Config} */
