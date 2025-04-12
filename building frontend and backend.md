@@ -88,8 +88,13 @@ Build a Frontend
 npm create vite@latest . -- --template react
 npm install
 npm install axios react-router-dom
+
+# old
 npm install -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init -p
+
+# new
+npm install tailwindcss @tailwindcss/vite
 ```
 
 vite.config.js
@@ -126,10 +131,12 @@ export default {
 
 src/index.css
 ```css
+# old
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+# new
 @import "tailwindcss";
 ```
 
