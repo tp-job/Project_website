@@ -15,6 +15,7 @@ Used for 3D graphics and animations in the browser.
 Utility-first CSS framework for creating responsive, modern UIs.  
 👉 Get started – [Tailwindcss.com](https://tailwindcss.com/)
 
+# 
 
 > ### 🚀 Font & Icon Tools
 - **Google Fonts**  
@@ -29,6 +30,7 @@ Popular icon library with free and premium icons.
 Beautiful, free SVG icons made for Tailwind CSS.  
 👉 Browse icons – [Heroicons](https://heroicons.com/)
 
+#
 
 > ### 🚀 Components Tools
 - **DaisyUI**  
