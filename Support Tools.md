@@ -1,35 +1,46 @@
 > ### 🚀 Development Tools
-- React (Framework)
-Built from scratch using React’s component-based architecture.  
-👉 Build a React App from Scratch – [React.dev](https://react.dev/)
+- **React (Framework)**  
+Built with React’s component-based architecture.  
+👉 Learn more – [React.dev](https://react.dev/)
 
-- Next (Framework)
-Built from scratch using Next’s component-based architecture.  
-👉 Build a React App from Scratch – [Next.js](https://nextjs.org/)
+- **Next.js (Framework)**  
+Built with Next.js for server-side rendering and static site generation.  
+👉 Learn more – [Next.js](https://nextjs.org/)
 
-- Three (Framework)
-Built from scratch using Three’s component-based architecture.  
-👉 Build a React App from Scratch – [Three.js](https://threejs.org/)
+- **Three.js (Framework)**  
+Used for 3D graphics and animations in the browser.  
+👉 Learn more – [Three.js](https://threejs.org/)
 
-- Tailwind CSS (CSS Framework)
-Used for utility-first styling to create a responsive and modern UI.  
-👉 Get Started with Tailwind CSS – [Tailwindcss.com](https://tailwindcss.com/)
+- **Tailwind CSS (CSS Framework)**  
+Utility-first CSS framework for creating responsive, modern UIs.  
+👉 Get started – [Tailwindcss.com](https://tailwindcss.com/)
+
+---
 
 > ### 🚀 Font & Icon Tools
-- Browse Fonts
-Built from scratch using React’s component-based architecture.  
-👉 Build a React App from Scratch – [Browse Fonts](https://fonts.google.com/)
+- **Google Fonts**  
+A vast collection of free, open-source fonts.  
+👉 Browse fonts – [Google Fonts](https://fonts.google.com/)
 
-- Fontawesome
-Built from scratch using React’s component-based architecture.  
-👉 Build a React App from Scratch – [Browse Fonts](https://fontawesome.com/icons)
+- **Font Awesome**  
+Popular icon library with free and premium icons.  
+👉 Explore icons – [Font Awesome](https://fontawesome.com/icons)
 
-- Browse Fonts
-Built from scratch using React’s component-based architecture.  
-👉 Build a React App from Scratch – [Browse Fonts](https://fonts.google.com/)
+- **Heroicons**  
+Beautiful, free SVG icons made for Tailwind CSS.  
+👉 Browse icons – [Heroicons](https://heroicons.com/)
+
+---
 
 > ### 🚀 Components Tools
-- Daisy UI
-Built from scratch using React’s component-based architecture.  
-👉 Build a React App from Scratch – [Daisy UI](https://daisyui.com/)
+- **DaisyUI**  
+Tailwind CSS component library with themes and customizable UI components.  
+👉 Learn more – [DaisyUI](https://daisyui.com/)
 
+- **Headless UI**  
+Unstyled, fully accessible UI primitives designed to integrate with Tailwind CSS.  
+👉 Learn more – [Headless UI](https://headlessui.com/)
+
+- **Radix UI**  
+Low-level accessible UI components for building custom designs.  
+👉 Learn more – [Radix UI](https://www.radix-ui.com/)
