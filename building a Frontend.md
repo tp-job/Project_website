@@ -1,5 +1,6 @@
 Build a Frontend
 ```cmd
+# react
 npm create vite@latest . -- --template react
 npm install
 
