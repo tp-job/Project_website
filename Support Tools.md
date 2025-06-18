@@ -17,18 +17,35 @@ Utility-first CSS framework for creating responsive, modern UIs.
 
 # 
 
-> ### 🚀 Font & Icon Tools
+### 🚀 Font & Icon Tools
+
 - **Google Fonts**  
-A vast collection of free, open-source fonts.  
-👉 Browse fonts – [Google Fonts](https://fonts.google.com/)
+  A vast collection of free, open-source fonts from Google.  
+  👉 [Browse fonts](https://fonts.google.com/)
+
+- **cdnjs**  
+  CDN for various front-end libraries including Font Awesome.  
+  👉 [Visit cdnjs](https://cdnjs.com/)
 
 - **Font Awesome**  
-Popular icon library with free and premium icons.  
-👉 Explore icons – [Font Awesome](https://fontawesome.com/icons)
+  Popular icon library offering free and premium icons.  
+  👉 [fontawesome](https://fontawesome.com/icons)
+
+- **Remix Icon**  
+  A set of open-source neutral-style system symbols.  
+  👉 [Remixicon](https://remixicon.com/)
+
+- **Boxicons**  
+  Simple vector icons carefully crafted for designers and developers.  
+  👉 [Boxicons](https://boxicons.com/)
+
+- **Bootstrap Icons**  
+  Official open-source icons from the Bootstrap team.  
+  👉 [Bootstrap](https://icons.getbootstrap.com/)
 
 - **Heroicons**  
-Beautiful, free SVG icons made for Tailwind CSS.  
-👉 Browse icons – [Heroicons](https://heroicons.com/)
+  Beautiful hand-crafted SVG icons designed for Tailwind CSS.  
+  👉 [Heroicons](https://heroicons.com/)
 
 #
 
