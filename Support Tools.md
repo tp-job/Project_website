@@ -90,3 +90,27 @@ Utility-first CSS framework for creating responsive, modern UIs.
 - **Flowbite**  
   Component library built on Tailwind CSS with interactive elements using JavaScript.  
   👉 Learn more - [flowbite.com](https://flowbite.com/)
+
+#
+
+> ### 🚀 Style
+
+- **Neumorphism**  
+  Style  
+  👉 Learn more - [Neumorphism](https://neumorphism.io/#e0e0e0)
+
+#
+
+> ### 🚀 Deploy 
+
+- **Render**  
+  A full-featured hosting service suitable for both web applications and APIs.  
+  👉 Learn more - [render](https://render.com/)
+  
+- **Vercel**
+  A popular platform for applications built with Next.js and React.  
+  👉 Learn more - [vercel](https://vercel.com/)
+  
+- **Netlify**  
+  A solution for hosting static websites and JAMstack projects, complete with built-in CI/CD features.  
+  👉 Learn more - [netlify](https://www.netlify.com/)
